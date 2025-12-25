@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Happy Birthday Diya & Dishant!</title>
+    <title>Happy Birthday Tilak!</title>
     <style>
         * {
             margin: 0;
@@ -145,19 +145,19 @@
 </head>
 <body>
     <div class="container">
-        <h1>Happy Birthday Diya & Dishant!</h1>
+        <h1>Happy Birthday Tilak</h1>
         <div class="cake">🎂</div>
         <p>Click the link below to reveal a special birthday message!</p>
         
         <a class="birthday-link" onclick="revealMessage()">Click for your birthday surprise!</a>
         
         <div id="birthdayMessage" class="message">
-            <h2>Happy Birthday Diya & Dishant! 🎉</h2>
+            <h2>Happy Birthday, Tilak! 🎉</h2>
             <p>Wishing you a day filled with joy, laughter, and all the things that make you smile! May this year bring you success, happiness, and wonderful new opportunities. You deserve the very best!</p>
             <p>Enjoy your special day to the fullest! 🎂🎈🎁</p>
         </div>
         
-        <p class="footer">Made with ❤️ for Diya & Dishant's special day</p>
+        <p class="footer">Made with ❤️ for Tilak's special day</p>
     </div>
 
     <script>
